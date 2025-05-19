@@ -1,0 +1,6 @@
+export const AUTH_ROUTE = '/Auth'
+export const REGISTRATION_ROUTE = '/Registration'
+export const MAIN_ROUTE = '/Main'
+export const DELETE_ROUTE = '/Deleted'
+export const FAVOUR_ROUTE = '/Favourite'
+export const DOCS_ROUTE = '/docs-viewer'
