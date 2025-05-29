@@ -1,74 +1,75 @@
-<<<<<<< HEAD
-# Memory-App-Client
-=======
-# Getting Started with Create React App
+# Классификатор событий учебной и производственной деятельности
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Веб-приложение для создания, управления и классификации событий, связанных с учебной и производственной деятельностью. Система поддерживает работу с тематическими группами, хранение файлов, авторизацию и просмотр информации через удобный интерфейс.
 
-## Available Scripts
+## 🔧 Основной функционал
 
-In the project directory, you can run:
+- **Авторизация и регистрация**  
+  Вход через логин/пароль и сторонние сервисы (OAuth). Используется безопасная авторизация с JWT.
 
-### `npm start`
+- **Группировка событий**  
+  Создание тематических групп для организации событий по категориям.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Управление событиями**  
+  Создание и редактирование событий с описаниями, датами и вложениями.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Избранное**  
+  Возможность добавлять группы и события в избранное для быстрого доступа.
 
-### `npm test`
+- **Хранение данных**  
+  Персонализированное хранение информации в профиле пользователя.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Навигация и просмотр контента**  
+  Удобная структура с возможностью быстрого поиска и фильтрации.
 
-### `npm run build`
+## 🖥️ Технологии
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Клиент:**  
+  React, Ant Design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Сервер:**  
+  Node.js, Express.js, PostgreSQL, Sequelize ORM  
+  JWT и OAuth2 – для авторизации и аутентификации
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🌐 Доступ
 
-### `npm run eject`
+- **Веб-версия приложения:**  
+  [http://45.8.251.36.nip.io:3000](http://45.8.251.36.nip.io:3000)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Мобильная версия (релиз):**  
+  [GitHub Release v1.0.0](https://github.com/Vdem07/shedule-bmstu/releases/tag/v1.0.0)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📂 Исходный код
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Клиентская часть:**  
+  [Memory-App-Client](https://github.com/Vdem07/Memory-App-Client)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Серверная часть:**  
+  [Memory-App-Server](https://github.com/Vdem07/Memory-App-Server)
 
-## Learn More
+## ⚙️ Установка и запуск
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Клиент
+```bash
+cd Memory-App-Client
+npm install
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Сервер
+```bash
+cd Memory-App-Server
+npm install
+npm run dev
+```
 
-### Code Splitting
+## 📌 Скриншоты
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![2025-05-26_23-40-30](https://github.com/user-attachments/assets/e8a56856-a3bb-46c8-87fe-59befcb5cd06)
+![2025-05-26_23-46-34](https://github.com/user-attachments/assets/60321c2f-e848-41b1-a2f9-5ecd375f88ac)
+![2025-05-26_23-47-42](https://github.com/user-attachments/assets/14c3d976-5221-4792-9cc8-91d977379093)
+![image](https://github.com/user-attachments/assets/18346d38-5feb-4923-a4ea-4bd8ba8cc38e)
 
-### Analyzing the Bundle Size
+## 📃 Лицензия
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 52d56d2 (Initial commit)
+Проект распространяется под MIT лицензией.
