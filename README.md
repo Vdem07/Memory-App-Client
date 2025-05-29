@@ -69,6 +69,9 @@ npm run dev
 ![2025-05-26_23-46-34](https://github.com/user-attachments/assets/60321c2f-e848-41b1-a2f9-5ecd375f88ac)
 ![2025-05-26_23-47-42](https://github.com/user-attachments/assets/14c3d976-5221-4792-9cc8-91d977379093)
 ![image](https://github.com/user-attachments/assets/18346d38-5feb-4923-a4ea-4bd8ba8cc38e)
+![image](https://github.com/user-attachments/assets/10435b28-e715-44f1-8d3e-92796f4e6a1b)
+![image](https://github.com/user-attachments/assets/d8ad8622-84f4-49f2-95ae-d417724a5f42)
+![image](https://github.com/user-attachments/assets/8d29f28d-7ebc-4de8-a36d-a2d349318236)
 
 ## 📃 Лицензия
 
