@@ -37,7 +37,7 @@
   [http://45.8.251.36.nip.io:3000](http://45.8.251.36.nip.io:3000)
 
 - **Мобильная версия (релиз):**  
-  [GitHub Release v1.0.0](https://github.com/Vdem07/shedule-bmstu/releases/tag/v1.0.0)
+  [Мои события v1.0.0](https://github.com/Vdem07/Memory-App-Client/releases/tag/v1.0.0)
 
 ## 📂 Исходный код
 
