@@ -63,6 +63,9 @@ npm install
 npm run dev
 ```
 
+### Подробная инструкция по развертыванию в локальной сети организации:
+  https://disk.yandex.ru/i/FXl9bxtys9CZtQ![image](https://github.com/user-attachments/assets/42456af0-a0c8-4006-af4f-28ae3035c9eb)
+
 ## 📌 Скриншоты
 
 ![2025-05-26_23-40-30](https://github.com/user-attachments/assets/e8a56856-a3bb-46c8-87fe-59befcb5cd06)
