@@ -68,13 +68,13 @@ npm run dev
 
 ## 📌 Скриншоты
 
-![2025-05-26_23-40-30](https://github.com/user-attachments/assets/e8a56856-a3bb-46c8-87fe-59befcb5cd06)
-![2025-05-26_23-46-34](https://github.com/user-attachments/assets/60321c2f-e848-41b1-a2f9-5ecd375f88ac)
-![2025-05-26_23-47-42](https://github.com/user-attachments/assets/14c3d976-5221-4792-9cc8-91d977379093)
-![image](https://github.com/user-attachments/assets/18346d38-5feb-4923-a4ea-4bd8ba8cc38e)
-![image](https://github.com/user-attachments/assets/10435b28-e715-44f1-8d3e-92796f4e6a1b)
-![image](https://github.com/user-attachments/assets/d8ad8622-84f4-49f2-95ae-d417724a5f42)
-![image](https://github.com/user-attachments/assets/8d29f28d-7ebc-4de8-a36d-a2d349318236)
+![image](https://github.com/user-attachments/assets/0a0b994f-ca40-44f7-ac05-f4b11a0d3cd5)
+![image](https://github.com/user-attachments/assets/d38b425f-0c69-41f7-b333-3be9ff0a8911)
+![image](https://github.com/user-attachments/assets/dc2cbcf4-b078-4810-bdc0-4e78a78b5edc)
+![image](https://github.com/user-attachments/assets/3a13ba66-6898-42ec-8733-1966092f17d8)
+![image](https://github.com/user-attachments/assets/a8d39ae6-0655-485c-83e8-a04d51be151e)
+![image](https://github.com/user-attachments/assets/6181d649-13d1-4ee6-9a1b-a39ebfc54c59)
+![image](https://github.com/user-attachments/assets/2946867b-51cb-4f31-a4d4-bdcc24fe7ee2)
 
 ## 📃 Лицензия
 
